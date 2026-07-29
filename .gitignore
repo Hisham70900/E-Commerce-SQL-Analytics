@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Power BI temporary files
+*.pbix.autosave
+
+# MySQL
+*.sql.bak
